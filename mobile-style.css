@@ -1,0 +1,68 @@
+
+
+
+
+
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: black solid 1px;
+}
+
+
+
+#home {
+    height: 1100px;
+}
+
+#home .info-img {
+    display: none;
+}
+
+#home .info-content {
+    float: none;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    column-count: 1;
+}
+
+#video{
+    float: none;
+    padding-top: 20px;
+    overflow: hidden;
+    height: 300px;
+    width: 100%;
+}
+
+#showcase .showcase-content{
+    padding-top: 40px;
+}
+
+#showcase .showcase-content h1{
+    font-size: 30px;
+}
+
+.btn{
+    display: none;
+}
+
+
+
+
+.box {
+    float: none;
+    width: 100%;
+}
